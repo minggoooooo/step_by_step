@@ -40,3 +40,31 @@
 
 
 ## 코스 등록
+
+  <br>
+
+  ![그림3](https://github.com/minggoooooo/What_to_eat_today/assets/136559977/9be7433c-df5f-4269-b4d0-8a9d087c3928)
+
+  - 현재는 gpx파일 파싱만 지원하기 때문에 이와같이 등록함 delete와 update도 구현 필요
+
+## 크루페이지
+
+  <br>
+
+  ![그림4](https://github.com/minggoooooo/What_to_eat_today/assets/136559977/7fba4baf-fb46-4ee7-adc1-8528df0798b9)
+
+  - 크루 등록 및 가입페이지 장기크루와 단기크루로 나뉘어져있으며 단기크루는 일정 1회만 진행하고 삭제됨
+
+  - 예정 일정이 도래, 또는 크루 모집 기한이 마감되고 인원이 3명이상이 되지않으면 자동 삭제되게 처리
+  
+  - 또한, 게시판 사진첩도 구현했으며 게시판의 경우 코스와 달리 중복추천대신 추천 취소기능을 구현함
+    
+  ![그림5](https://github.com/minggoooooo/What_to_eat_today/assets/136559977/b03f0274-3fb1-4469-a8d8-7dff1f71f876)
+
+## 마이페이지
+
+![그림7](https://github.com/minggoooooo/What_to_eat_today/assets/136559977/057b73e4-b9ca-4dc9-a224-61673627e33f)
+
+- 누적 기록 조회 가능, 나의 크루 활동 한눈에 보기
+- 내가 방장인 크루에 가입신청 처리 가능
+- 내가 가입 신청한 크루 확인 가능
