@@ -27,7 +27,8 @@
 - 리스트 상단 돋보기 버튼을 클릭하게되면 다음 주소 api를 불러와 주소변경이 가능하고 해당 주소 위치로 리스트 생성
   <br>
   ![ㅁㄴㅇ](https://github.com/minggoooooo/What_to_eat_today/assets/136559977/177d38fd-67ee-4cdb-8abe-655551ba6bcc)
-  - 중복 추천 방지
+
+- 중복 추천 방지
  <br>
  
 ## 코스 등록
