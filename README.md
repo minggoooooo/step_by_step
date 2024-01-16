@@ -29,6 +29,7 @@
   ![ㅁㄴㅇ](https://github.com/minggoooooo/What_to_eat_today/assets/136559977/177d38fd-67ee-4cdb-8abe-655551ba6bcc)
   - 중복 추천 방지
  <br>
+ 
 ## 코스 등록
   <br>
   ![그림1](https://github.com/minggoooooo/What_to_eat_today/assets/136559977/a996f9f6-2096-4c2a-bbb0-34dc34701dac)
