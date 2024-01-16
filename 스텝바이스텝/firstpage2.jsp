@@ -59,7 +59,7 @@ String[][] coordinateValues = coordinates.values().stream().map(list2 -> list2.t
 <html>
 <head>
 <meta charset="UTF-8">
-<title>코스찾기 페이지2</title>
+<title>Insert title here</title>
 <script type="text/javascript"
 	src="https://dapi.kakao.com/v2/maps/sdk.js?appkey=5b706854aedb7b02e16f877971562d29&libraries=services,drawing"></script>
 <link rel="stylesheet" href="./resources/css/map3.css">
