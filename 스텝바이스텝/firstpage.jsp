@@ -59,11 +59,10 @@ String[][] coordinateValues = coordinates.values().stream().map(list2 -> list2.t
 <html>
 <head>
 <meta charset="UTF-8">
-<title>코스찾기 페이지1</title>
+<title>Insert title here</title>
 <script type="text/javascript"
 	src="https://dapi.kakao.com/v2/maps/sdk.js?appkey=5b706854aedb7b02e16f877971562d29&libraries=services,drawing"></script>
 <link rel="stylesheet" href="./resources/css/map3.css">
-
 </head>
 <script type="text/javascript">
 	var items =
@@ -104,9 +103,9 @@ String[][] coordinateValues = coordinates.values().stream().map(list2 -> list2.t
 			type="hidden" name="routeForDistance" id="routeForDistance">
 		<button type="submit"></button>
 	</form>
-	<!-- 예제에서는 버튼 클릭 시 getAddress 함수 호출 -->
 	<script src="https://code.jquery.com/jquery-3.6.4.min.js"></script>
 	<script type="text/javascript" src=./resources/js/firstpage.js></script>
-</body>
+	<!-- 예제에서는 버튼 클릭 시 getAddress 함수 호출 -->
 	<!-- 선택된 주소를 표시할 엘리먼트 -->
+</body>
 </html>
