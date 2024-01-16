@@ -138,7 +138,7 @@ String[] coordinateKeys = coordinates.keySet().toArray(new String[0]);
 String[][] coordinateValues = coordinates.values().stream().map(list2 -> list2.toArray(new String[0]))
 		.toArray(String[][]::new);
 %>
-<title>코스 찾기 페이지 2</title>
+<title>트랭글 GPS 게임 같은 운동앱, 등산 걷기 자전거 만보기</title>
 <script type="text/javascript"
 	src="https://dapi.kakao.com/v2/maps/sdk.js?appkey=5b706854aedb7b02e16f877971562d29&libraries=services,drawing"></script>
 <link rel="stylesheet" href="./resources/css/map3.css">
@@ -187,7 +187,7 @@ String[][] coordinateValues = coordinates.values().stream().map(list2 -> list2.t
 						<div class="section">
 							<!-- 옵션버튼 + 검색창 -->
 							<c:set var="address" value="<%=address %>"/>
-							<%-- <div class="search">
+							<div class="search">
 								<!-- 옵션버튼 아이콘 -->
 								<a href="#" class="i_opt" style="display: block;"></a>
 								<!-- 검색창(검색input + 검색아이콘)  -->
@@ -196,15 +196,7 @@ String[][] coordinateValues = coordinates.values().stream().map(list2 -> list2.t
 									href="#" class="i_fin" onclick="getAddress();"
 									style="display: block;"></a>
 								</span>
-							</div> --%>
-							<div class="search">
-                        <input type="checkbox" id="i_option"> <label
-                           for="i_option"> <span></span> <span></span> <span></span>
-                        </label> <span class="search_input input_def"> <input type="text"
-                           placeholder="주소 or 코스를 검색하세요"> <a href="#"
-                           class="i_fin" style="display: block;"></a>
-                        </span>
-							
+							</div>
 							<!-- 수정중 영역 start-->
 							<!--  <div class="option_tag">
 								<span class="option_choice"> <a href="#"> -->
