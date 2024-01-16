@@ -8,7 +8,7 @@
 <title></title>
 <link href="resources/css/login3.css" rel="stylesheet">
 <link href="resources/css/MyPage2.css" rel="stylesheet">
-<link href="resources/css/courseRegister.css" rel="stylesheet">
+<link href="resources/css/CourseRegister.css" rel="stylesheet">
 </head>
 <body>
 
