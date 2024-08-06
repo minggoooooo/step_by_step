@@ -31,7 +31,7 @@
 - 중복 추천 방지
  <br>
  
-## 코스 선택
+## 코스 소개
   <br>
   
   ![그림1](https://github.com/minggoooooo/What_to_eat_today/assets/136559977/a996f9f6-2096-4c2a-bbb0-34dc34701dac)
